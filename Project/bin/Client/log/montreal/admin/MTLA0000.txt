@@ -1,0 +1,187 @@
+2022-03-27 01:17:52 PM | Add Appointments | MTLA231020 Dental 5 | null=MTLA231020=Dental=5=null=null
+2022-03-27 03:32:35 PM | Add Appointments | mkcnd ccue 5 | null=mkcnd=ccue=5=null=null
+2022-03-27 03:35:00 PM | Add Appointments | r ce 2 | null=r=ce=2=null=null
+2022-03-27 03:35:53 PM | Add Appointments | jhgfd jhgfd jhgf | null=jhgfd=jhgfd=jhgf=null=null
+2022-03-27 03:37:32 PM | Add Appointments | rtgh fdgf dfbgn | null=rtgh=fdgf=dfbgn=null=null
+2022-03-27 08:38:23 PM | Get Appointment Schedule | csc | 
+2022-03-27 08:38:52 PM | Get Appointment Schedule | cd | 
+2022-03-27 08:39:05 PM | Get Appointment Schedule | azsxdcfv | 
+2022-03-27 08:40:29 PM | Get Appointment Schedule | dxfg | 
+2022-03-28 04:10:00 PM | List Appointment Availibility | erfbg | 
+2022-03-28 04:10:17 PM | List Appointment Availibility | rgt6y7u8i | 
+2022-03-28 04:10:31 PM | List Appointment Availibility | tyghbjnkjo | listAppointmentAvailability->#=#=tyghbjnkjo=#=#=#
+2022-03-28 04:11:52 PM | Book Appointment | maf csh vd | bookAppointment->maf=csh=vd=#=#=#
+2022-03-28 04:20:45 PM | Swap Appointment | 9630 7410 m 8520 s | 
+2022-03-28 04:21:13 PM | Add Appointments | xdcfvgbhnj dxcfvgbhnj cfvgbh | 
+2022-03-28 04:37:12 PM | Add Appointments | wdefrg defrg dwg | 
+2022-03-28 04:38:04 PM | Add Appointments | efwrg ewg frgd | 
+2022-03-28 04:38:12 PM | Add Appointments | ferg frg rg | addAppointment->#=ferg=frg=rg=#=#
+2022-03-28 04:39:51 PM | Add Appointments | rftgh tgyk vghuj | addAppointment->#=rftgh=tgyk=vghuj=#=#
+2022-03-28 04:56:55 PM | Add Appointments | wdefrg fd df | 
+2022-03-28 04:57:11 PM | Add Appointments | defsrgb waesd wadef | 
+2022-03-28 04:57:38 PM | Add Appointments | fer wer ty | addAppointment->#=fer=wer=ty=#=#
+2022-03-28 05:01:14 PM | List Appointment Availibility | wefgraewfwefaf | 
+2022-03-28 05:01:41 PM | List Appointment Availibility | yfvuhbhk | 
+2022-03-28 05:03:49 PM | List Appointment Availibility | cvbnm | 
+2022-03-28 05:06:38 PM | List Appointment Availibility | 8520 | 
+2022-03-28 05:06:59 PM | List Appointment Availibility | 7410 | listAppointmentAvailability->#=#=7410=#=#=#
+2022-03-28 05:07:19 PM | List Appointment Availibility | 9630 | listAppointmentAvailability->#=#=9630=#=#=#
+2022-03-28 05:07:58 PM | List Appointment Availibility | 7896541230 | listAppointmentAvailability->#=#=7896541230=#=#=#
+2022-03-28 05:35:05 PM | Add Appointments | asd asdf qwe | 
+2022-03-28 05:35:30 PM | Add Appointments | qwe qwe qwe | 
+2022-03-28 05:35:44 PM | Add Appointments | qwe qw wq | 
+2022-03-28 05:36:01 PM | Add Appointments | asd sadxc asdxc | addAppointment->#=asd=sadxc=asdxc=#=#
+2022-03-28 07:52:53 PM | Swap Appointment | mtlp8520 mtlp231022 physician shem251023 dental | swapAppointment->mtlp8520=mtlp231022=physician=#=shem251023=dental
+2022-03-30 02:03:41 PM | Add Appointments | mtla852012 physician 6 | addAppointment->#=mtla852012=physician=6=#=#
+2022-03-30 03:36:12 PM | Add Appointments | mtla300222 dental 5 | Appointmnet added Successfully -> Success
+2022-03-30 03:36:44 PM | Book Appointment | mtlp8520 mtla300222 dental |  -> Success
+2022-03-30 03:38:42 PM | Add Appointments | mtlm300322 dental 5 | Appointmnet added Successfully -> Success
+2022-03-30 03:39:18 PM | Remove Appointments | mtlm300322 dental | The mtlm300322 has been removed from dental appointment. -> Success
+2022-03-30 03:47:08 PM | Add Appointments | MTLM300322 Dental 5 | Appointmnet added Successfully -> Success
+2022-03-30 03:47:36 PM | List Appointment Availibility | Dental | listAppointmentAvailability->#=#=Dental=#=#=#
+2022-03-30 04:36:42 PM | Book Appointment | MTLP8520 MTLM300322 Dental | There are no appointmnets for Dental -> Success
+2022-03-30 04:37:01 PM | List Appointment Availibility | Dental | , -> Success
+2022-03-30 04:37:42 PM | Add Appointments | MTLM300322 Surgeon 3 | Appointmnet added Successfully -> Success
+2022-03-30 04:38:23 PM | Add Appointments | MTLE310322 Dental 10 | Appointmnet added Successfully -> Success
+2022-03-30 04:38:50 PM | Book Appointment | MTLP0005 MTLE310322 Dental | Appointment booked Successfully -> Success
+2022-03-30 04:39:04 PM | Get Appointment Schedule | MTLP0005 | Montreal Hospital : ,Dental,MTLE310322,, -> Success
+2022-03-30 04:39:44 PM | Swap Appointment | MTLP0005 MTLE310322 Dental MTLM300322 Surgeon | the Appointment has been swapped for the patient MTLP0005 from old appointment id MTLE310322 to MTLM300322 -> Success
+2022-03-30 04:40:03 PM | Get Appointment Schedule | MTLP0005 | Montreal Hospital : ,Surgeon,MTLM300322,, -> Success
+2022-03-30 04:40:25 PM | List Appointment Availibility | Dental | MTLE310322 10,, -> Success
+2022-03-30 04:40:42 PM | List Appointment Availibility | Surgeon | MTLM300322 2,, -> Success
+2022-03-30 04:41:20 PM | Remove Appointments | MTLM300322 Surgeon | The MTLM300322 has been removed from and patient are rescheduled on MTLM010422 for Surgeon -> Success
+2022-03-30 04:41:34 PM | Get Appointment Schedule | MTLP0005 | Montreal Hospital : ,Surgeon,MTLM010422,, -> Success
+2022-03-30 04:41:54 PM | List Appointment Availibility | Surgeon | MTLM010422 2,, -> Success
+2022-03-30 04:42:17 PM | Cancel Appointment | MTLP0005 MTLM010422 | the Appointment has been cancelled for the patient MTLP0005 -> Success
+2022-03-30 04:42:26 PM | List Appointment Availibility | Surgeon | MTLM010422 3,, -> Success
+2022-03-30 04:42:46 PM | Remove Appointments | MTLM010422 Surgeon | The MTLM010422 has been removed from Surgeon appointment. -> Success
+2022-03-30 04:42:55 PM | List Appointment Availibility | Surgeon | , -> Success
+2022-03-30 04:43:17 PM | Get Appointment Schedule | MTLP0005 | , -> Success
+2022-03-30 04:43:34 PM | List Appointment Availibility | Dental | MTLE310322 10,, -> Success
+2022-03-30 06:47:28 PM | Add Appointments | MTLM300322 DENTAL 1 | 
+2022-03-30 06:52:14 PM | Book Appointment | MTLP8520 MTLM300322 DENTAL | 
+2022-03-30 07:18:39 PM | Add Appointments | MTLM300322 DENTAL 1 | addAppointment->#=MTLM300322=DENTAL=1=#=#
+2022-03-30 07:24:36 PM | Get Appointment Schedule | MTLP8520 | getAppointmentSchedule->MTLP8520=#=#=#=#=#
+2022-03-30 07:31:46 PM | Add Appointments | MTLM300322 DENTAL 1 | addAppointment->#=MTLM300322=DENTAL=1=#=#
+2022-03-30 07:33:35 PM | Add Appointments | MTLM300322 DENTAL 1 | Appointmnet added Successfully -> Success
+2022-03-30 07:41:01 PM | Add Appointments | MTLM300322 DENTAL 1 | Appointmnet added Successfully -> Success
+2022-03-30 07:45:30 PM | Get Appointment Schedule | MTLP8520 | ,Sherbrooke Hospital : ,SURGEON,SHEM300322 -> Nuetral
+2022-03-30 07:46:44 PM | List Appointment Availibility | DENTAL | MTLM300322 1,, -> Nuetral
+2022-03-30 07:46:59 PM | List Appointment Availibility | SURGEON | ,SHEM300322 0 -> Nuetral
+2022-03-31 10:56:18 AM | Add Appointments | MTLM310322 DENTAL 2 | Appointmnet added Successfully -> Success
+2022-03-31 01:50:46 PM | Add Appointments | MTLM310322 DENTAL 2 | Appointmnet added Successfully->Success
+2022-03-31 01:52:11 PM | Add Appointments | MTLM010422 PHYSICIAN 2 | Appointmnet added Successfully->Success
+2022-03-31 01:53:02 PM | Add Appointments | MTLM020422 SURGEON 5 | Appointmnet added Successfully->Success
+2022-03-31 01:53:12 PM | List Appointment Availibility | DENTAL | MTLM310322 2,,->Nuetral
+2022-03-31 01:53:40 PM | List Appointment Availibility | PHYSICIAN | Added->Success
+2022-03-31 01:54:12 PM | List Appointment Availibility | DENTAL | MTLM310322 2,,->Nuetral
+2022-03-31 01:59:27 PM | Add Appointments | MTLM310322 DENTAL 5 | Added->Success
+2022-03-31 02:00:24 PM | Add Appointments | MTLM310322 PHYSICIAN 5 | Added->Success
+2022-03-31 02:05:34 PM | Add Appointments | MTLM310322 DENTAL 1 | Appointmnet added Successfully -> Success
+2022-03-31 02:06:07 PM | Add Appointments | MTLM010422 PHYSICIAN 2 | Appointmnet added Successfully -> Success
+2022-03-31 02:06:24 PM | Add Appointments | MTLM020422 SURGEON 3 | Appointmnet added Successfully -> Success
+2022-03-31 02:07:00 PM | Add Appointments | MTLM030422 DENTAL 2 | Appointmnet added Successfully. -> Success
+2022-03-31 02:07:28 PM | Add Appointments | MTLM040422 DENTAL 3 | Appointmnet added Successfully. -> Success
+2022-03-31 02:07:55 PM | List Appointment Availibility | DENTAL | MTLM040422 3,MTLM310322 1,MTLM030422 2,, -> Nuetral
+2022-03-31 02:26:13 PM | Add Appointments | MTLM310322 SURGEON 1 | Appointmnet added Successfully -> Success
+2022-03-31 02:27:03 PM | Book Appointment | MTLP8520 MTLM310322 SURGEON | Added->Success
+2022-03-31 03:03:03 PM | Add Appointments | MTLM310322 DENTAL 4 | Appointmnet added Successfully -> Success
+2022-03-31 03:03:28 PM | Add Appointments | MTLM010422 SURGEON 5 | Appointmnet added Successfully -> Success
+2022-03-31 03:03:51 PM | Book Appointment | MTLP8520 MTLM040122 DENTAL | Appointmnet is not available on this day -> Failed
+2022-03-31 03:04:08 PM | Get Appointment Schedule | MTLP8520 | , -> Nuetral
+2022-03-31 03:04:52 PM | Book Appointment | MTLP8520 MTLM310322 DENTAL | Appointment booked Successfully -> Success
+2022-03-31 03:52:45 PM | Add Appointments | MTLM310322 DENTAL 5 | Appointmnet added Successfully -> Success
+2022-03-31 03:53:03 PM | List Appointment Availibility | DENTAL | MTLM310322 5,, -> Nuetral
+2022-03-31 03:53:20 PM | Add Appointments | MTLM010422 DENTAL 2 | Appointmnet added Successfully. -> Success
+2022-03-31 03:53:29 PM | List Appointment Availibility | DENTAL | MTLM010422 2,MTLM310322 5,, -> Nuetral
+2022-03-31 03:54:04 PM | Book Appointment | MTLP8520 MTLM010422 DENTAL | Appointment booked Successfully -> Success
+2022-04-02 01:08:29 PM | Add Appointments | MTLM230222 DENTAL 4 | Added->Success
+2022-04-02 01:13:16 PM | Book Appointment | MTLP8520 MTLM230222 DENTAL | Appointment booked Successfully -> Success
+2022-04-02 01:35:51 PM | Add Appointments | MTLA0000 MTLM230222 DENTAL 4 | Appointmnet added Successfully -> Success
+2022-04-02 01:43:35 PM | Add Appointments | MTLA0000 MTLM230222 DENTAL 4 | Appointmnet added Successfully -> Success
+2022-04-02 03:44:57 PM | List Appointment Availibility | PHYSICIAN | 
+2022-04-02 03:45:43 PM | Add Appointments | MTLA0000 MTLA121212 PHYSICIAN 12 | ->Added
+2022-04-02 03:58:21 PM | Add Appointments | MTLA0000 MTLA121212 PHYSICIAN 12 | 
+2022-04-02 04:06:59 PM | Add Appointments | MTLA0000 MTLM232120 DENTAL 3 | 
+2022-04-02 04:07:11 PM | Remove Appointments | MTLM326598 DENTAL | 
+2022-04-02 04:09:54 PM | Add Appointments | MTLA0000 MTLM123456 DENTAL 2 | Appointmnet added Successfully->Success
+2022-04-02 04:11:53 PM | Book Appointment | MTLP8520 MTLM123456 DENTAL | Appointment BookedMTLM123456->Success
+2022-04-02 04:12:26 PM | Get Appointment Schedule | MTLP8520 | 
+2022-04-02 06:18:33 PM | List Appointment Availibility | DENTAL | 
+2022-04-02 06:20:59 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-02 09:50:47 PM | List Appointment Availibility | PHYSICIAN | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-02 09:51:27 PM | Add Appointments | MTLA0000 MTLA1212 DENTAL 12 | Appointmnet added Successfully->Success
+2022-04-02 09:51:46 PM | Remove Appointments | MTLA1212 DENTAL | 
+2022-04-02 09:51:56 PM | List Appointment Availibility | DENTAL | 
+2022-04-02 09:53:57 PM | List Appointment Availibility | PHYSICIAN | 
+2022-04-02 09:54:55 PM | List Appointment Availibility | PHYSICIAN | 
+2022-04-02 09:57:06 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-02 09:57:38 PM | Remove Appointments | MTLE140222 PHYSICIAN | 
+2022-04-03 10:32:14 AM | Add Appointments | MTLA0000 MTLA121212 DENTAL 12 | Appointmnet added Successfully->Success
+2022-04-03 10:32:54 AM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA121212=Appointment{Number of Appoinntment='12}, MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 10:34:16 AM | Remove Appointments | MTLE140222 PHYSICIAN | Appointment removedMTLE140222Success->Nn
+2022-04-03 10:37:16 AM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='0}}, DENTAL={MTLA121212=Appointment{Number of Appoinntment='12}, MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 10:39:13 AM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='0}}, DENTAL={MTLA121212=Appointment{Number of Appoinntment='12}, MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 10:39:56 AM | Book Appointment | MTLA121212 MTLA121212 DENTAL | Appointment BookedMTLA121212->Success
+2022-04-03 10:40:16 AM | Get Appointment Schedule | MTLA121212 | [MTLA121212DENTAL]->Nn
+2022-04-03 10:40:42 AM | Cancel Appointment | MTLA121212 MTLA121212 | Appointment CancelledMTLA121212->Success
+2022-04-03 10:43:03 AM | Book Appointment | MTLA1212 QUEE121212 PHYSICIAN | 
+2022-04-03 11:46:30 AM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 11:47:23 AM | Book Appointment | MTLA1212 QUEA121212 DENTAL | 
+2022-04-03 11:50:54 AM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 11:51:17 AM | Book Appointment | QUEA1212 QUEA121212 DENTAL | 
+2022-04-03 11:55:54 AM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 11:56:34 AM | Book Appointment | QUEA1212 QUEN121212 SURGEON | 
+2022-04-03 12:10:50 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 12:11:27 PM | Book Appointment | QUEA1212 QUEN121212 SURGEON | 
+2022-04-03 12:13:01 PM | Book Appointment | SHEA1212 SHEA121212 DENTAL | Appointment BookedSHEA121212->Success
+2022-04-03 12:13:25 PM | Get Appointment Schedule | SHEA1212 | [SHEA121212DENTAL]->Nn
+2022-04-03 12:16:44 PM | Swap Appointment | SHEA1212 SHEA121212 DENTAL MTLE140222 PHYSICIAN | Appointment SwappedSHEA121212DENTALtoMTLE140222DENTAL->Success
+2022-04-03 12:18:24 PM | Get Appointment Schedule | SHEA121212 | ->Nn
+2022-04-03 12:18:46 PM | Get Appointment Schedule | SHEA1212 | [MTLE140222PHYSICIAN][]->Nn
+2022-04-03 12:19:38 PM | Book Appointment | QUEA1212 QUEN121212 SURGEON | 
+2022-04-03 12:43:58 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 12:44:35 PM | Book Appointment | QUEA1212 QUEE121212 PHYSICIAN | 
+2022-04-03 12:50:24 PM | Add Appointments | MTLA0000 MTLA1212 PHYSICIAN 10 | Appointmnet added Successfully->Success
+2022-04-03 12:50:43 PM | Remove Appointments | MTLA1212 PHYSICIAN | Appointment removedMTLA1212Success->Nn
+2022-04-03 12:50:55 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}, MTLA1212=Appointment{Number of Appoinntment='0}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 12:51:26 PM | Book Appointment | MTLA1212 MTLE140222 PHYSICIAN | Appointment BookedMTLE140222->Success
+2022-04-03 12:51:45 PM | Get Appointment Schedule | MTLA1212 | [MTLE140222PHYSICIAN]->Nn
+2022-04-03 12:52:12 PM | Cancel Appointment | MTLA1212 MTLE140222 | Appointment CancelledMTLE140222->Success
+2022-04-03 12:52:34 PM | Swap Appointment | MTLA1212 0 0 0 0 | 
+2022-04-03 12:53:00 PM | Add Appointments | MTLA0000 0 0 0 | 
+2022-04-03 01:03:10 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 01:03:52 PM | Book Appointment | QUEA1212 QUEE121212 PHYSICIAN | Appointment BookedQUEE121212->Success
+2022-04-03 01:04:23 PM | Book Appointment | QUEE121212 0 0 | Appointment notBooked0->Failed
+2022-04-03 01:10:00 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 01:10:29 PM | Book Appointment | MTLA1212 QUEE121212 PHYSICIAN | 
+2022-04-03 01:11:44 PM | Get Appointment Schedule | MTLA1212 | 
+2022-04-03 01:26:47 PM | Book Appointment | MTLA1212 MTLA140222 DENTAL | Appointment BookedMTLA140222->Success
+2022-04-03 01:27:29 PM | Book Appointment | MTLA1212 QUEE121212 PHYSICIAN | 
+2022-04-03 01:33:51 PM | Book Appointment | MTLA1212 MTLA140222 DENTAL | Appointment BookedMTLA140222->Success
+2022-04-03 01:34:22 PM | Book Appointment | MTLA1212 QUEE121212 PHYSICIAN | Appointment BookedQUEE121212->Success
+2022-04-03 01:34:59 PM | Get Appointment Schedule | MTLA1212 | [MTLA140222DENTAL][QUEE121212PHYSICIAN]->Nn
+2022-04-03 01:35:59 PM | Swap Appointment | MTLA1212 QUEE121212 PHYSICIAN SHEN121212 SURGEON | Sending request to que server for swapappointmentQUEE121212PHYSICIANtoSHEN121212PHYSICIAN->Success
+2022-04-03 02:00:56 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 02:02:18 PM | Book Appointment | MTLA1212 QUEE121212 PHYSICIAN | Appointment BookedQUEE121212->Success
+2022-04-03 02:03:00 PM | Book Appointment | MTLA1212 SHEN121212 SURGEON | Appointment BookedSHEN121212->Success
+2022-04-03 02:03:47 PM | Book Appointment | MTLA121212 MTLE140222 PHYSICIAN | Appointment BookedMTLE140222->Success
+2022-04-03 02:04:00 PM | Get Appointment Schedule | MTLA1212 | [QUEE121212PHYSICIAN][SHEN121212SURGEON]->Nn
+2022-04-03 02:06:36 PM | Swap Appointment | MTLA1212 QUEE121212 PHYSICIAN MTLN140222 SURGEON | Sending request to que server for swapappointmentQUEE121212PHYSICIANtoMTLN140222PHYSICIAN->Success
+2022-04-03 02:06:49 PM | Get Appointment Schedule | MTLA1212 | [MTLN140222SURGEON][][SHEN121212SURGEON]->Nn
+2022-04-03 02:21:37 PM | Book Appointment | MTLA1212 SHEA121212 DENTAL | Appointment BookedSHEA121212->Success
+2022-04-03 02:21:47 PM | Get Appointment Schedule | MTLA1212 | [SHEA121212DENTAL]->Nn
+2022-04-03 02:22:28 PM | Swap Appointment | MTLA1212 SHEA1212 DENTAL MTLA140222 DENTAL | Sending request to she server for swapappointmentSHEA1212DENTALtoMTLA140222DENTAL->Failed
+2022-04-03 02:25:52 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 02:26:40 PM | Book Appointment | MTLA1212 SHEA121212 DENTAL | Appointment BookedSHEA121212->Success
+2022-04-03 02:27:21 PM | Swap Appointment | MTLA1212 SHEA121212 DENTAL MTLE140222 PHYSICIAN | Sending request to she server for swapappointmentSHEA121212DENTALtoMTLE140222DENTAL->Success
+2022-04-03 02:27:46 PM | Get Appointment Schedule | MTLA1212 | [MTLE140222PHYSICIAN][]->Nn
+2022-04-03 02:28:30 PM | Swap Appointment | MTLA1212 MTLE140222 PHYSICIAN QUEN121212 SURGEON | Appointment SwappedMTLE140222PHYSICIANtoQUEN121212PHYSICIAN->Success
+2022-04-03 02:30:32 PM | Swap Appointment | MTLA1212 QUEN121212 PHYSICIAN SHEE121212 PHYSICIAN | Sending request to que server for swapappointmentQUEN121212PHYSICIANtoSHEE121212PHYSICIAN->Failed
+2022-04-03 03:15:20 PM | List Appointment Availibility | DENTAL | {PHYSICIAN={MTLE140222=Appointment{Number of Appoinntment='10}}, DENTAL={MTLA140222=Appointment{Number of Appoinntment='10}}, SURGEON={MTLN140222=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={QUEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={QUEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={QUEN121212=Appointment{Number of Appoinntment='10}}}{PHYSICIAN={SHEE121212=Appointment{Number of Appoinntment='10}}, DENTAL={SHEA121212=Appointment{Number of Appoinntment='10}}, SURGEON={SHEN121212=Appointment{Number of Appoinntment='10}}}->Nn
+2022-04-03 03:16:00 PM | Book Appointment | MTLA1212 SHEA121212 DENTAL | Appointment BookedSHEA121212->Success
+2022-04-03 03:17:12 PM | Swap Appointment | MTLA1212 SHEA121212 DETAL MTLA140222 DENTAL | data->Failed
+2022-04-03 03:17:50 PM | Swap Appointment | MTLA1212 SHEA121212 DENTAL MTLA140222 DENTAL | Sending request to she server for swapappointmentSHEA121212DENTALtoMTLA140222DENTAL->Success
+2022-04-03 03:18:04 PM | Get Appointment Schedule | MTL1212 | ->Nn
+2022-04-03 03:18:19 PM | Get Appointment Schedule | MTLA1212 | [MTLA140222DENTAL][]->Nn
+2022-04-03 03:19:10 PM | Swap Appointment | MTLA1212 MTLA140222 DENTAL QUEE121212 PHYSICIAN | Appointment SwappedMTLA140222DENTALtoQUEE121212DENTAL->Success

@@ -1,0 +1,36 @@
+Date:2022-03-03 10:14:33 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-03 10:14:33 PM|Action:Appointment BookedMTLE140222| Response:true
+Date:2022-03-03 10:14:38 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-03 10:15:10 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-03 10:15:10 PM|Action:List of Appointments| Response:success
+Date:2022-03-03 10:15:10 PM|Action:Appointment BookedQUEA121212| Response:true
+Date:2022-03-03 10:15:10 PM|Action:Appointment BookedQUEA121212| Response:true
+Date:2022-03-03 10:15:15 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-03 10:15:15 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-03 10:43:18 PM|Action:List of Appointments| Response:success
+Date:2022-03-03 10:43:18 PM|Action:List of Appointments| Response:success
+Date:2022-03-03 10:43:19 PM|Action:List of Appointments| Response:success
+Date:2022-03-06 08:35:11 PM|Action:List of Appointments| Response:success
+Date:2022-03-06 08:35:11 PM|Action:List of Appointments| Response:success
+Date:2022-03-06 08:35:11 PM|Action:List of Appointments| Response:success
+Date:2022-03-06 11:42:17 PM|Action:List of Appointments| Response:success
+Date:2022-03-06 11:42:17 PM|Action:List of Appointments| Response:success
+Date:2022-03-06 11:42:17 PM|Action:List of Appointments| Response:success
+Date:2022-03-06 11:42:36 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-06 11:42:36 PM|Action:Appointment BookedMTLE140222| Response:true
+Date:2022-03-06 11:42:55 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-06 11:42:55 PM|Action:List of Appointments| Response:success
+Date:2022-03-06 11:42:55 PM|Action:Appointment BookedQUEN121212| Response:true
+Date:2022-03-06 11:42:55 PM|Action:Appointment BookedQUEN121212| Response:true
+Date:2022-03-06 11:42:58 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-06 11:42:58 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-08 09:59:56 AM|Action:List of Appointments| Response:success
+Date:2022-03-08 09:59:56 AM|Action:List of Appointments| Response:success
+Date:2022-03-08 09:59:56 AM|Action:List of Appointments| Response:success
+Date:2022-03-08 10:00:11 AM|Action:getAppointmentSchedule| Response:true
+Date:2022-03-08 10:00:11 AM|Action:Appointment BookedSHEE121212| Response:true
+Date:2022-03-08 10:00:11 AM|Action:Appointment BookedSHEE121212| Response:true
+Date:2022-03-08 10:00:34 AM|Action:Appointment CancelledSHEE121212| Response:true
+Date:2022-03-08 10:00:34 AM|Action:Appointment BookedMTLN140222| Response:true
+Date:2022-03-08 10:00:34 AM|Action:Appointment SwappedSHEE121212PHYSICIANtoMTLN140222PHYSICIAN| Response:true
+Date:2022-03-08 10:00:34 AM|Action:Sending request to she server for swapappointmentSHEE121212PHYSICIANtoMTLN140222PHYSICIAN| Response:true

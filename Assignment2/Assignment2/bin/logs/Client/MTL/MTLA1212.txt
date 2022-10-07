@@ -1,0 +1,15 @@
+Date:2022-02-23 02:23:30 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 02:23:30 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 02:23:30 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 02:28:05 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 02:28:05 PM|Action:Appointment BookedMTLE140222| Response:true
+Date:2022-02-23 02:28:32 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 02:28:37 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 02:28:37 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 02:28:37 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 02:38:03 PM|Action:Appointment CancelledMTLE140222| Response:true
+Date:2022-02-23 02:38:03 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 02:38:03 PM|Action:Appointment BookedQUEE121212| Response:true
+Date:2022-02-23 02:38:03 PM|Action:Appointment SwappedMTLE140222PHYSICIANtoQUEE121212PHYSICIAN| Response:true
+Date:2022-02-23 02:38:12 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 02:38:12 PM|Action:getAppointmentSchedule| Response:true

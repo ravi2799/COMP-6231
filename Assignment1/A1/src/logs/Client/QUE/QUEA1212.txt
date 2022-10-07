@@ -1,0 +1,104 @@
+Date:2022-02-09 09:22:50 pm|Action:Appointment removedQUEE121212| Response:A
+Date:2022-02-09 09:22:56 pm|Action:List of Appointments| Response:success
+Date:2022-02-09 09:22:56 pm|Action:List of Appointments| Response:success
+Date:2022-02-09 09:22:56 pm|Action:List of Appointments| Response:success
+Date:2022-02-10 11:59:22 pm|Action:getAppointmentSchedule| Response:true
+Date:2022-02-10 11:59:26 pm|Action:List of Appointments| Response:success
+Date:2022-02-10 11:59:26 pm|Action:List of Appointments| Response:success
+Date:2022-02-10 11:59:26 pm|Action:List of Appointments| Response:success
+Date:2022-02-10 11:59:30 pm|Action:getAppointmentSchedule| Response:true
+Date:2022-02-10 11:59:38 pm|Action:List of Appointments| Response:success
+Date:2022-02-10 11:59:38 pm|Action:List of Appointments| Response:success
+Date:2022-02-10 11:59:38 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 12:00:04 am|Action:Appointment BookedQUEE121212| Response:true
+Date:2022-02-11 12:00:28 am|Action:List of Appointments| Response:success
+Date:2022-02-11 12:00:28 am|Action:Appointment notBookedMTLE121212| Response:false
+Date:2022-02-11 09:34:42 pm|Action:addAppointmentQUEA1212|QUEA121212|PHYSICIAN| Response:A
+Date:2022-02-11 09:35:05 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:05 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:05 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:05 pm|Action:Appointment BookedQUEA121212| Response:true
+Date:2022-02-11 09:35:09 pm|Action:getAppointmentSchedule| Response:true
+Date:2022-02-11 09:35:15 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:15 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:15 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:34 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:34 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:34 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:35 pm|Action:Appointment BookedMTLE121212| Response:true
+Date:2022-02-11 09:35:35 pm|Action:Appointment BookedMTLE121212| Response:true
+Date:2022-02-11 09:35:37 pm|Action:getAppointmentSchedule| Response:true
+Date:2022-02-11 09:35:37 pm|Action:getAppointmentSchedule| Response:true
+Date:2022-02-11 09:35:57 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:57 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:57 pm|Action:List of Appointments| Response:success
+Date:2022-02-11 09:35:57 pm|Action:Appointment BookedSHEA121212| Response:true
+Date:2022-02-11 09:35:57 pm|Action:Appointment BookedSHEA121212| Response:true
+Date:2022-02-11 09:36:11 pm|Action:Appointment CancelledSHEA121212| Response:true
+Date:2022-02-11 09:36:11 pm|Action:Appointment CancelledSHEA121212| Response:true
+Date:2022-02-14 04:58:41 pm|Action:getAppointmentSchedule| Response:true
+Date:2022-02-14 04:58:48 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 04:58:48 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 04:58:48 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 04:59:27 pm|Action:addAppointmentQUEA1212|QUEA121212|PHYSICIAN| Response:A
+Date:2022-02-14 04:59:36 pm|Action:getAppointmentSchedule| Response:true
+Date:2022-02-14 04:59:40 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 04:59:40 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 04:59:40 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:00:09 pm|Action:Appointment notAddedMTLM121212| Response:A
+Date:2022-02-14 05:01:06 pm|Action:Appointment removedQUEA121212| Response:A
+Date:2022-02-14 05:01:09 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:01:09 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:01:09 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:01:39 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:01:39 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:01:39 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:01:39 pm|Action:appointmentbook| Response:false
+Date:2022-02-14 05:02:22 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:02:22 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:02:22 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:02:41 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:02:41 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:02:41 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:02:41 pm|Action:Appointment BookedMTLE121212| Response:true
+Date:2022-02-14 05:02:41 pm|Action:Appointment BookedMTLE121212| Response:true
+Date:2022-02-14 05:03:01 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:03:01 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:03:01 pm|Action:List of Appointments| Response:success
+Date:2022-02-14 05:03:01 pm|Action:Appointment not BookedMTLE121212| Response:false
+Date:2022-02-14 05:03:01 pm|Action:Appointment notBookedMTLE121212| Response:false
+Date:2022-02-14 05:03:17 pm|Action:getAppointmentSchedule| Response:true
+Date:2022-02-14 05:03:17 pm|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:52:16 am|Action:List of Appointments| Response:success
+Date:2022-02-23 09:52:16 am|Action:List of Appointments| Response:success
+Date:2022-02-23 09:52:16 am|Action:List of Appointments| Response:success
+Date:2022-02-23 09:52:33 am|Action:Appointment BookedQUEE121212| Response:true
+Date:2022-02-23 09:52:56 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:52:56 am|Action:Appointment BookedMTLE140222| Response:true
+Date:2022-02-23 09:52:56 am|Action:Appointment BookedMTLE140222| Response:true
+Date:2022-02-23 09:53:05 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:53:05 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:53:11 am|Action:List of Appointments| Response:success
+Date:2022-02-23 09:53:11 am|Action:List of Appointments| Response:success
+Date:2022-02-23 09:53:11 am|Action:List of Appointments| Response:success
+Date:2022-02-23 09:53:28 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:53:28 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:53:28 am|Action:Appointment BookedMTLN140222| Response:true
+Date:2022-02-23 09:53:28 am|Action:Appointment BookedMTLN140222| Response:true
+Date:2022-02-23 09:53:46 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:53:46 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:53:46 am|Action:Appointment BookedMTLA140222| Response:true
+Date:2022-02-23 09:53:46 am|Action:Appointment BookedMTLA140222| Response:true
+Date:2022-02-23 09:53:49 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:53:49 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:55:03 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:55:03 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:56:05 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:56:05 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:57:57 am|Action:Appointment CancelledMTLE140222| Response:true
+Date:2022-02-23 09:57:57 am|Action:Appointment BookedQUEN121212| Response:true
+Date:2022-02-23 09:58:11 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:58:11 am|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:58:15 am|Action:List of Appointments| Response:success
+Date:2022-02-23 09:58:15 am|Action:List of Appointments| Response:success
+Date:2022-02-23 09:58:15 am|Action:List of Appointments| Response:success

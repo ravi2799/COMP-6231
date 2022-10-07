@@ -1,0 +1,14 @@
+module ServerObjectInterfacezApp
+{
+	interface ServerObjectInterface
+	{
+	boolean addAppointment(in string adminId, in string appointmentID,in string appointmentType, in long capacity);
+	boolean removeAppointment(in string adminId,in string appointmentID,in string appointmentType,in long capacity);
+	string listAppointmentAvailability(in string adminId,in string appointmentType) ;
+	boolean bookAppointment (in string patientID,in string appointmentID,in string appointmentType); 
+	string getAppointmentSchedule (in string patientID);
+	boolean cancelAppointment(in string patientID, in string appointmentID, in string appointmentType);
+	boolean swapAppointment(in string patientID,in string oldAppointmentID, in string oldAppointmentType, in string newAppointmentID,in string newAppointmentType);
+	oneway void shutdown();
+	};
+};

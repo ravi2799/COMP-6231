@@ -1,0 +1,8 @@
+Date:2022-02-23 09:23:49 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 09:23:49 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 09:23:49 PM|Action:List of Appointments| Response:success
+Date:2022-02-23 09:24:05 PM|Action:Appointment BookedMTLE140222| Response:true
+Date:2022-02-23 09:24:05 PM|Action:Appointment BookedMTLE140222| Response:true
+Date:2022-02-23 09:24:44 PM|Action:Sending request to mtl server for swapappointmentMTLE140222PHYSICIANtoSHEE121212PHYSICIAN| Response:true
+Date:2022-02-23 09:25:00 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-02-23 09:25:00 PM|Action:getAppointmentSchedule| Response:true

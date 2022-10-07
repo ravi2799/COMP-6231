@@ -1,0 +1,17 @@
+Date:2022-02-20 06:13:43 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:13:43 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:13:43 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:11 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:11 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:11 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:11 PM|Action:Appointment BookedQUEE121212| Response:true
+Date:2022-02-20 06:14:32 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:32 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:32 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:32 PM|Action:Appointment BookedMTLA121212| Response:true
+Date:2022-02-20 06:14:32 PM|Action:Appointment BookedMTLA121212| Response:true
+Date:2022-02-20 06:14:37 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:37 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:37 PM|Action:List of Appointments| Response:success
+Date:2022-02-20 06:14:41 PM|Action:getAppointmentSchedule| Response:true
+Date:2022-02-20 06:14:41 PM|Action:getAppointmentSchedule| Response:true
